@@ -32,7 +32,7 @@
 					<div class="col-sm-6">
 						<div class="contactinfo">
 							<ul class="nav nav-pills">
-								<li><a href="#"><i class="fa fa-phone"></i> +52 618 1200 776</a></li>
+								<li><a href="#"><i class="fa fa-phone"></i> +52 618 265 4206</a></li>
 								<li><a href="#"><i class="fa fa-envelope"></i> atencionclientes@gmail.com</a></li>
 							</ul>
 						</div>
@@ -116,7 +116,7 @@
 									<h1><span>E</span>-SHOPPER</h1>
 									<h2>Proyecto</h2>
 									<p>Software Punto de Venta de Ropa </p>								
-								</div>
+								</div>Emiliano Ruiz Rosales</div>
 								<div class="col-sm-6">
 									<img src="images/home/girl1.jpg" class="girl img-responsive" alt="" />
 									<img src="images/home/pricing.png"  class="pricing" alt="" />
